@@ -2,3 +2,28 @@ html,
 body {
     height: 100%
 }
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background: black;
+
+}
+#sonic {
+    width: 500px;
+    position: absolute;
+    top: 50px;
+    right: 10px;
+}
+h1 {
+    color: white;
+    left: 10px;
+    position: absolute;
+}
+
+#img {
+    width: 300px;
+    border-radius: 10%;
+    border: 5px solid white;
+    
+}
